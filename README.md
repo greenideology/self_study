@@ -9,3 +9,7 @@
   - [파이썬 클래스와 모듈](https://github.com/greenideology/self_study/blob/main/python/2022-02-20-python_class_module.md)
   - [파이썬 예외처리와 파일 다루기](https://github.com/greenideology/self_study/blob/main/python/2022-02-20-python_exception_file_input_output.md)
   - [파이썬 주요 내/외장함수](https://github.com/greenideology/self_study/blob/main/python/2022-02-20-python_Built_in_Functions_External_Functions.md)
+
+## mathematics
+
+- discrete mathematics
