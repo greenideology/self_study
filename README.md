@@ -13,3 +13,6 @@
 ## mathematics
 
 - discrete mathematics
+  - [논리와 명제](https://github.com/greenideology/self_study/blob/main/Discrete%20mathematics/%EB%85%BC%EB%A6%AC%EC%99%80%20%EB%AA%85%EC%A0%9C.md)
+  - [증명](https://github.com/greenideology/self_study/blob/main/Discrete%20mathematics/2022-02-22-discrete_mathematics_proof.md)
+
